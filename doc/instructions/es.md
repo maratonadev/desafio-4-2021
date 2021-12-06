@@ -169,6 +169,7 @@ El desafío debe ser entregado hasta el 12 de diciembre, y el participante recib
 
 ## Materiales de apoyo
 
+- [Documentación de Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started&locale=es)
 - [Actualiza tu chatbot en WhatsApp con IBM Watson Assistant](https://developer.ibm.com/es/tutorials/integrating-ibm-watson-assistant-with-whatsapp/)
 - [Crea un asistente de voz con Watson Assistant](https://developer.ibm.com/es/tutorials/crea-un-asistente-de-voz-para-una-pizzeria-con-watson-assistant/)
 - [Cómo crear un chatbot utilizando Watson Assistant y Discovery.](https://developer.ibm.com/es/patterns/como-crear-un-chatbot-utilizando-watson-assistant-y-discovery/)

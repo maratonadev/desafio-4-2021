@@ -171,6 +171,11 @@ O desafio deve ser entregue até dia 12 de dezembro, e o participante receberá 
 
 ## Material de apoio
 
+- [Documentação do Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started&locale=pt-BR)
+- [Seja bem-vindo ao Watson Assistant!](https://developer.ibm.com/br/articles/bem-vindo-ao-watson-assistant/)
+- [Integre o robô de bate-papo de comunicação de crise da COVID-19 a um website](https://developer.ibm.com/br/tutorials/create-a-covid-19-chatbot-embedded-on-a-website/)
+- [Desenvolva uma solução de atendimento ao cliente](https://developer.ibm.com/br/articles/insurance-industry-customer-care-solution/)
+
 Você também pode acessar o Discord oficial da Maratona 2021 para realizar perguntas e/ou interagir com outros participantes: [Discord](https://discord.gg/yJYmTGDWKH).
 
 ## License
